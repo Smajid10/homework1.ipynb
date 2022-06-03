@@ -76,6 +76,3 @@ dy = zeros(2, 1)
 
 dy = alpha * X - beta * X * Y
 dy = delta * X * Y - gamma * Y
-
-SyntaxError: multiple statements found while compiling a single statement
->>> 
